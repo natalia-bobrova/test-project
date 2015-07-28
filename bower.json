@@ -1,0 +1,19 @@
+{
+  "name": "19-50",
+  "version": "0.0.0",
+  "authors": [
+    "Simon Bobrov <simon.bobrov@insparx.com>"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "~1.4.3",
+    "angular-route": "~1.4.3"
+  }
+}
